@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Smart Gallery</string>
+    <string name="tab_images">Images</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_suggestions">Suggestions</string>
+    <string name="tab_menu">Menu</string>
+
+    <!-- Filters & Sorting -->
+    <string name="filter_all">All</string>
+    <string name="filter_favorites">Favorites</string>
+    <string name="filter_videos">Videos</string>
+    <string name="filter_trash">Recycle Bin</string>
+    <string name="filter_people">People</string>
+    <string name="filter_locations">Locations</string>
+    <string name="filter_years">Years</string>
+    <string name="item_count">%1$d items</string>
+    
+    <!-- Dynamic Grouping & Details -->
+    <string name="group_today">Today</string>
+    <string name="group_yesterday">Yesterday</string>
+    <string name="group_older">Older</string>
+    <string name="search_hint">Search images, folders, faces, locations...</string>
+    <string name="grid_columns_title">Grid Columns</string>
+    
+    <!-- Actions -->
+    <string name="action_edit">Edit</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+    <string name="action_restore">Restore</string>
+    <string name="action_delete_perm">Delete Permanently</string>
+    <string name="action_empty_trash">Empty Bin</string>
+    <string name="action_add_custom">Add Media</string>
+    <string name="action_gemini_scan">Gemini AI Smart Scan</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_replace">Replace Original</string>
+    <string name="action_save_copy">Save as Copy</string>
+
+    <!-- Prompts & Messages -->
+    <string name="msg_move_to_trash">Move this file to the Recycle Bin?</string>
+    <string name="msg_trash_disclaimer">Items in the recycle bin are kept for 30 days before permanent deletion.</string>
+    <string name="msg_empty_trash_confirm">Are you sure you want to permanently delete all items in the Recycle Bin?</string>
+    <string name="msg_days_remaining">%1$d days remaining</string>
+    <string name="msg_no_items">No media items found</string>
+    <string name="msg_no_trash_items">Recycle Bin is empty</string>
+    
+    <!-- Editor -->
+    <string name="editor_title">Basic Photo Editor</string>
+    <string name="editor_brightness">Brightness</string>
+    <string name="editor_contrast">Contrast</string>
+    <string name="editor_rotate">Rotate</string>
+    <string name="editor_filters">Filters</string>
+    <string name="editor_filter_none">None</string>
+    <string name="editor_filter_grayscale">Mono</string>
+    <string name="editor_filter_warm">Warm</string>
+    <string name="editor_filter_cool">Cool</string>
+    <string name="editor_filter_sepia">Sepia</string>
+    <string name="editor_filter_invert">Invert</string>
+
+    <!-- Dialog / New Media -->
+    <string name="add_media_title">Add Image or Video URL</string>
+    <string name="add_media_hint_path">Enter direct image or video .mp4 URL</string>
+    <string name="add_media_hint_title">Title</string>
+    <string name="add_media_hint_location">Location (optional)</string>
+    <string name="add_media_hint_type">Media type</string>
+    <string name="add_media_image">Image</string>
+    <string name="add_media_video">Video</string>
+    
+    <!-- Gemini & Smart scan -->
+    <string name="gemini_success">Successfully analyzed: %1$s!</string>
+    <string name="gemini_scanning">Analyzing database with Gemini AI...</string>
+    <string name="gemini_scan_desc">Our intelligent filter will automatically scan your media coordinates, identify faces and general objects, and group them into automatic albums like Nature, Travels, and People.</string>
+    <string name="gemini_not_config">Gemini API key is not configured. Using local fallback smart analysis.</string>
+    <string name="gemini_scan_now">Scan &amp; Organize Now</string>
+    <string name="details_title">Details Info</string>
+</resources>

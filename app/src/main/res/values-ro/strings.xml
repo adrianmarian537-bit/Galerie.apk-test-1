@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Galerie Inteligentă</string>
+    <string name="tab_images">Imagini</string>
+    <string name="tab_albums">Albume</string>
+    <string name="tab_suggestions">Sugestii</string>
+    <string name="tab_menu">Meniu</string>
+
+    <!-- Filters & Sorting -->
+    <string name="filter_all">Toate</string>
+    <string name="filter_favorites">Favorite</string>
+    <string name="filter_videos">Videoclipuri</string>
+    <string name="filter_trash">Coș de gunoi</string>
+    <string name="filter_people">Oameni</string>
+    <string name="filter_locations">Locații</string>
+    <string name="filter_years">Ani</string>
+    <string name="item_count">%1$d elemente</string>
+    
+    <!-- Dynamic Grouping & Details -->
+    <string name="group_today">Astăzi</string>
+    <string name="group_yesterday">Ieri</string>
+    <string name="group_older">Mai vechi</string>
+    <string name="search_hint">Caută imagini, foldere, fețe, locații...</string>
+    <string name="grid_columns_title">Coloane grid</string>
+    
+    <!-- Actions -->
+    <string name="action_edit">Editează</string>
+    <string name="action_favorite">Favorit</string>
+    <string name="action_delete">Șterge</string>
+    <string name="action_share">Trimite</string>
+    <string name="action_restore">Restaurează</string>
+    <string name="action_delete_perm">Șterge definitiv</string>
+    <string name="action_empty_trash">Golește coșul</string>
+    <string name="action_add_custom">Adaugă fișier</string>
+    <string name="action_gemini_scan">Scanare Smart Gemini AI</string>
+    <string name="action_save">Salvează</string>
+    <string name="action_cancel">Anulează</string>
+    <string name="action_replace">Înlocuiește originalul</string>
+    <string name="action_save_copy">Salvează o copie</string>
+
+    <!-- Prompts & Messages -->
+    <string name="msg_move_to_trash">Trimiți acest fișier în coșul de gunoi?</string>
+    <string name="msg_trash_disclaimer">Elementele din coșul de gunoi sunt păstrate timp de 30 de zile înainte de a fi șterse definitiv.</string>
+    <string name="msg_empty_trash_confirm">Sigur doriți să ștergeți definitiv toate elementele din Coșul de gunoi?</string>
+    <string name="msg_days_remaining">Rămân %1$d zile</string>
+    <string name="msg_no_items">Nu s-au găsit fotografii sau videoclipuri</string>
+    <string name="msg_no_trash_items">Coșul de gunoi este gol</string>
+    
+    <!-- Editor -->
+    <string name="editor_title">Editor Foto de Bază</string>
+    <string name="editor_brightness">Luminozitate</string>
+    <string name="editor_contrast">Contrast</string>
+    <string name="editor_rotate">Rotește</string>
+    <string name="editor_filters">Filtre</string>
+    <string name="editor_filter_none">Niciunul</string>
+    <string name="editor_filter_grayscale">Mono</string>
+    <string name="editor_filter_warm">Cald</string>
+    <string name="editor_filter_cool">Rece</string>
+    <string name="editor_filter_sepia">Sepia</string>
+    <string name="editor_filter_invert">Inversat</string>
+
+    <!-- Dialog / New Media -->
+    <string name="add_media_title">Adaugă URL video sau foto</string>
+    <string name="add_media_hint_path">Introduceți URL-ul direct spre fișier (JPG, PNG, MP4)</string>
+    <string name="add_media_hint_title">Titlu</string>
+    <string name="add_media_hint_location">Locație (opțional)</string>
+    <string name="add_media_hint_type">Tip media</string>
+    <string name="add_media_image">Imagine</string>
+    <string name="add_media_video">Video</string>
+    
+    <!-- Gemini & Smart scan -->
+    <string name="gemini_success">Analiză finalizată cu succes pentru: %1$s!</string>
+    <string name="gemini_scanning">Se analizează baza de date cu Gemini AI...</string>
+    <string name="gemini_scan_desc">Filtrele noastre inteligente vor scana fișierele tale media, vor indentifica automat locații, fețe, obiecte generale și le vor organiza în categorii precum Natură, Călătorii sau Portrete.</string>
+    <string name="gemini_not_config">Cheia API Gemini nu este configurată. Se utilizează analiza locală automată.</string>
+    <string name="gemini_scan_now">Scanează și organizează</string>
+    <string name="details_title">Informații detalii</string>
+</resources>

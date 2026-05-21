@@ -1,0 +1,6 @@
+{
+  "name": "Smart Gallery",
+  "description": "O aplicație de galerie inspirată de Samsung Gallery, cu filtre inteligente Gemini AI, coș de gunoi pe 30 de zile și editare foto de bază în limba română și engleză.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
